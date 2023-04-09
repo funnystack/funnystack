@@ -8,4 +8,4 @@
 
 ## 🔥 open source project
 
- - [`combo-framework`](https://github.com/funnystack/combo-framework) Microservices Framework
+ - [`combo-framework`](https://github.com/funnystack/combo-framework) 企业微服务研发基础框架
